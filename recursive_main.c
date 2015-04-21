@@ -8,3 +8,12 @@ int main(int argc, char **argv) {
     }
     return retval;
 }
+
+/*
+
+Example usage:
+
+gcc -o stupid recursive_main.c
+./stupid anything\ at\ all that
+
+*/
